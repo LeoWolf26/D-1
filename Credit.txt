@@ -1,0 +1,27 @@
+Plugin
+	Felski
+	Yanfly
+	biud436
+	tomoaky
+	Galv - galvs-scripts.com
+	gameus
+	Tigress
+	SumRndmDde
+	karberus
+
+Pic
+	PandaMaru
+
+
+BGM
+	Cyber-Rainforce
+		HP：3104式
+		URL：https://cyber-rainforce.net/
+	ユーフルカ
+	MoonWind　http://moonwind.pw
+
+
+SE
+	魔王魂
+	効果音ラボ
+

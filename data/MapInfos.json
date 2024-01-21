@@ -1,4 +1,11 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":411.5,"scrollY":334}
+{"id":1,"expanded":true,"name":"測試區域/系統","order":1,"parentId":0,"scrollX":1318.6666666666667,"scrollY":1417.3333333333333},
+{"id":2,"expanded":false,"name":"起始點","order":2,"parentId":1,"scrollX":1092,"scrollY":604},
+{"id":3,"expanded":true,"name":"船艙1-1","order":4,"parentId":4,"scrollX":1081.3333333333333,"scrollY":649.3333333333334},
+{"id":4,"expanded":true,"name":"走廊1","order":3,"parentId":0,"scrollX":1081.3333333333333,"scrollY":717.3333333333334},
+{"id":5,"expanded":true,"name":"船艙1-2","order":5,"parentId":4,"scrollX":1081.3333333333333,"scrollY":836},
+{"id":6,"expanded":true,"name":"走廊2","order":6,"parentId":4,"scrollX":1081.3333333333333,"scrollY":640},
+{"id":7,"expanded":true,"name":"走廊3","order":7,"parentId":4,"scrollX":1081.3333333333333,"scrollY":716},
+{"id":8,"expanded":true,"name":"走廊4","order":8,"parentId":7,"scrollX":1081.3333333333333,"scrollY":718.6666666666666}
 ]

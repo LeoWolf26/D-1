@@ -738,7 +738,7 @@ Game_Screen.prototype.eraseBattlePictures = function() {
 };
 
 Game_Screen.prototype.maxPictures = function() {
-    return 100;
+    return 200;
 };
 
 Game_Screen.prototype.startFadeOut = function(duration) {
@@ -4804,7 +4804,7 @@ Game_Party.prototype.battleMembers = function() {
 };
 
 Game_Party.prototype.maxBattleMembers = function() {
-    return 4;
+    return 8;
 };
 
 Game_Party.prototype.leader = function() {
