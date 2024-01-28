@@ -8,6 +8,7 @@ Plugin
 	Tigress
 	SumRndmDde
 	karberus
+	Terraxz
 
 Pic
 	PandaMaru
