@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"$actor1","classId":1,"equips":[0,0],"faceIndex":0,"faceName":"Actor1","traits":[{"code":62,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":1,"name":"傑克","nickname":"","note":"<Passive State: 71, 72, 73, 75, 76, 77>","profile":""},
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$actor1","classId":1,"equips":[0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"特工K","nickname":"","note":"<Passive State: 71, 72, 73, 75, 76, 77>","profile":""},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"$actor2","classId":2,"equips":[6,0,0],"faceIndex":1,"faceName":"Actor1","traits":[{"code":62,"dataId":3,"value":1},{"code":11,"dataId":2,"value":0}],"initialLevel":1,"maxLevel":1,"name":"蕾歐娜","nickname":"","note":"<Passive State: 73, 75, 76, 77>","profile":""},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"$actor3","classId":26,"equips":[11,18,0],"faceIndex":3,"faceName":"Actor1","traits":[{"code":62,"dataId":3,"value":1},{"code":11,"dataId":2,"value":0}],"initialLevel":1,"maxLevel":1,"name":"雷昂","nickname":"","note":"<Passive State: 73, 75, 76, 77>","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":3,"equips":[0,0,0],"faceIndex":4,"faceName":"Actor1","traits":[{"code":23,"dataId":5,"value":0},{"code":11,"dataId":2,"value":0}],"initialLevel":1,"maxLevel":1,"name":"無人機","nickname":"","note":"","profile":""},
