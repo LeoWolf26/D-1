@@ -1875,7 +1875,7 @@ Window_ItemCategory.prototype.windowWidth = function() {
 };
 
 Window_ItemCategory.prototype.maxCols = function() {
-    return 3;
+    return 4;
 };
 
 Window_ItemCategory.prototype.update = function() {
@@ -1888,7 +1888,7 @@ Window_ItemCategory.prototype.update = function() {
 Window_ItemCategory.prototype.makeCommandList = function() {
     this.addCommand(TextManager.keyItem, 'keyItem');
     this.addCommand(TextManager.item,    'item');
-//    this.addCommand(TextManager.weapon,  'weapon');
+    this.addCommand(TextManager.weapon,  'weapon');
     this.addCommand(TextManager.armor,   'armor');
     
 };

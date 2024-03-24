@@ -9,6 +9,7 @@ Plugin
 	SumRndmDde
 	karberus
 	Terraxz
+	Maliki
 
 Pic
 	PandaMaru
