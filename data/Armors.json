@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"atypeId":1,"description":"使用W發射魚形投射物，可以短暫擊暈敵人。","etypeId":2,"traits":[],"iconIndex":165,"name":"游魚","note":"<Bypass Durability>\n<Unbreakable>\n<Info Text Bottom>\n剩餘彈數  \\C[5]\\V[143]\\C[0]/3\n</Info Text Bottom>","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":1,"atypeId":1,"description":"使用W發射魚形投射物，可以短暫擊暈敵人。","etypeId":2,"traits":[],"iconIndex":165,"name":"海洋護佑","note":"<Bypass Durability>\n<Unbreakable>\n<Info Text Bottom>\n剩餘彈數  \\C[5]\\V[143]\\C[0]/3\n</Info Text Bottom>","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":2,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":3,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":4,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},

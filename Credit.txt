@@ -10,6 +10,7 @@ Plugin
 	karberus
 	Terraxz
 	Maliki
+	Victor Sant
 
 Pic
 	PandaMaru
